@@ -2,7 +2,7 @@ cask "boring-notch-lyrics" do
   version "1.0.0-lyrics-fork"
   sha256 "ab236a5f54bd003a6e0316e546d6c89d608551152889d6267e477da4e925db6c"
 
-  url "https://github.com/AusafMo/boring.notch/releases/download/v#{version}/boringNotch.dmg"
+  url "https://github.com/AusafMo/boring.notch/releases/download/v#{version}/boringNotch-v#{version}.dmg"
   name "Boring Notch - Lyrics Fork"
   desc "Fork of Boring Notch with scrolling lyrics features"
   homepage "https://github.com/AusafMo/boring.notch"
